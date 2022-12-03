@@ -1,0 +1,9 @@
+form button{
+    cursor: pointer;
+    border-radius: 5px;
+    color: grey;
+    display: inline-block;
+}
+form{
+    text-align: center;
+}
